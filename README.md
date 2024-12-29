@@ -79,3 +79,31 @@ The `manifest.json` file describes the extension, permissions, and the backgroun
     "<all_urls>"
   ]
 }
+```
+## Customization
+
+You can customize the following settings in `chrome.storage.local`:
+
+- **Minimum and Maximum Refresh Interval**: Adjust the time range between page refreshes.
+- **Scroll Behavior**: The scroll speed, direction, and delay between scroll actions can be modified to suit your needs.
+
+## Troubleshooting
+
+- **Error Message**: If you encounter an error like `scrollTimers is not defined`, ensure that the `scrollTimers` object is properly managed in the background script and passed to the content script.
+- **No Scrollable Content**: If a page has no scrollable content, the extension will log a message saying, "No scrollable content found."
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository, create a branch, and submit a pull request with your changes. Make sure to include tests for new features or fixes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For further updates or inquiries, you can reach out to me through my profiles on Fiverr or Upwork:
+
+[![Fiverr](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fiverr_logo.svg/1280px-Fiverr_logo.svg.png)]([https://www.fiverr.com/your-profile-link](https://www.fiverr.com/users/toqeerhaider597))  
+[![Upwork](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Upwork_logo_2019.svg/1280px-Upwork_logo_2019.svg.png)]([https://www.upwork.com/freelancers/~your-profile-link](https://www.upwork.com/freelancers/~01bbd0b4facc5ae5ba))
+

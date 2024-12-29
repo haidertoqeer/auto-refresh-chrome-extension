@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Auto Refresh & Scroll</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      width: 200px;
+    }
+
+    label {
+      font-size: 14px;
+      font-weight: bold;
+      display: block;
+      margin-top: 10px;
+    }
+
+    input[type="number"] {
+      width: 100%;
+      padding: 5px;
+      margin-top: 5px;
+      margin-bottom: 10px;
+      font-size: 14px;
+    }
+
+    button {
+      width: 100%;
+      padding: 10px;
+      font-size: 14px;
+      font-weight: bold;
+      color: #fff;
+      background-color: #4CAF50;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #45a049;
+    }
+
+    #status {
+      margin-top: 10px;
+      text-align: center;
+      font-size: 12px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h3>Auto Refresh & Scroll</h3>
+  <label for="min-interval">Min Interval (seconds):</label>
+  <input id="min-interval" type="number" min="50" value="50" />
+
+  <label for="max-interval">Max Interval (seconds):</label>
+  <input id="max-interval" type="number" min="60" value="60" />
+
+  <button id="start-stop">Start</button>
+  <div id="status">Set intervals and click Start.</div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

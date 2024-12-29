@@ -104,7 +104,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For further updates or inquiries, you can reach out to me through my profiles on Fiverr or Upwork:
 
-[![Fiverr](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fiverr_logo.svg/1280px-Fiverr_logo.svg.png)]]
-(https://www.fiverr.com/users/toqeerhaider597)  
-[![Upwork](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Upwork_logo_2019.svg/1280px-Upwork_logo_2019.svg.png)] (https://www.upwork.com/freelancers/~01bbd0b4facc5ae5ba)
+[![Fiverr](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fiverr_logo.svg/1280px-Fiverr_logo.svg.png)](https://www.fiverr.com/users/toqeerhaider597){:target="_blank"}  
+[![Upwork](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Upwork_logo_2019.svg/1280px-Upwork_logo_2019.svg.png)](https://www.upwork.com/freelancers/~01bbd0b4facc5ae5ba){:target="_blank"}
+
 
